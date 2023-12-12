@@ -1,5 +1,6 @@
 ### 안녕하세요! 이찬신입니다. 👋
 
+* 이메일 : ebdh56@naver.com
 <!--
 **lcs9912/lcs9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
