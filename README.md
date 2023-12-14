@@ -39,7 +39,7 @@
 
 <div><h2> 팀 프로젝트</h2></div>
 
-#### 무엇을 위한 쇼핑몰 프로젝트 인가
+### 무엇을 위한 쇼핑몰 프로젝트 인가
 
 * GitHub : https://github.com/wuuuugi/shopping.git
 * 담당역할 : 귀여움 담당
@@ -49,3 +49,11 @@
 <!-- 
 <img width="516" alt="springProjectskill" src="https://github.com/lcs9912/lcs9912/assets/137017212/907cd9ed-8449-4197-bd32-947e31725d30">
 -->
+
+
+### flutter 버스킹 홍보 모바일앱 인디스팟
+
+* GitHub : https://github.com/Jeongseonil/Indie_Spot.git
+* 담당 역할 : 귀요미 담당
+* 수행기간 : 2023.10.23 ~ 2023.11.13 (22일)
+* 목표 및 소개 : 우리 앱은 예술가와 상업 공간을 연결하는 플랫폼으로, 간편한 공연 일정 및 장소 등록과 홍보가 가능합니다. 아티스트들은 더 많은 관객을 유치하고, 상업 공간 소유자들은 시설을 효과적으로 활용하여 수익을 창출할 수 있습니다.
