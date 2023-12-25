@@ -41,7 +41,7 @@
 
 ### 무엇을 위한 쇼핑몰 프로젝트 인가
 
-* GitHub : [https://github.com/wuuuugi/shopping.git](https://github.com/lcs9912/spring_teamPro_Crayon.git)
+* GitHub : [https://github.com/lcs9912/spring_teamPro_Crayon.git](https://github.com/lcs9912/spring_teamPro_Crayon.git)
 * 담당역할 : 구매, 판매 내역, 마이페이지, 로그인 정보, 프로필관리 주소록, 주소API, 결제 내역, 포안트 충전API, 상품 입찰내역 차트API
 * 수행기간 : 2023-08-09 ~ 2023.08.29
 * 목표 및 소개 : 한정판 의류 및 신발등 다양한 한정판 제화를 좋아하는 사람들을 위한 한정판 상품 판매/구매 및 정보 제공이 가능한 웹 플랫폼 서비스입니다.
