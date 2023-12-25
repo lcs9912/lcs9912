@@ -51,7 +51,7 @@
 -->
 
 
-### 버스킹, 상업공간 공연 홍보가 가능한 
+### 버스킹, 상업공간 공연 홍보가 가능한 앱 
 
 * GitHub : [https://github.com/lcs9912/flutter_teamPro_indieSpot.git](https://github.com/lcs9912/flutter_teamPro_indieSpot.git)
 * 담당 역할 : 메인화면, 팀/솔로 신청, 아티스트 수정, 아티스트 목록, 아티스트 상세, 상업공간등록
