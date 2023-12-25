@@ -39,7 +39,7 @@
 
 <div><h2> 팀 프로젝트</h2></div>
 
-### 무엇을 위한 쇼핑몰 프로젝트 인가
+### 다양한 한정품 상품을 중고거래가능한 웹 사이트
 
 * GitHub : [https://github.com/lcs9912/spring_teamPro_Crayon.git](https://github.com/lcs9912/spring_teamPro_Crayon.git)
 * 담당역할 : 구매, 판매 내역, 마이페이지, 로그인 정보, 프로필관리 주소록, 주소API, 결제 내역, 포안트 충전API, 상품 입찰내역 차트API
@@ -51,7 +51,7 @@
 -->
 
 
-### flutter 버스킹 홍보 모바일앱 인디스팟
+### 버스킹, 상업공간 공연 홍보가 가능한 
 
 * GitHub : [https://github.com/lcs9912/flutter_teamPro_indieSpot.git](https://github.com/lcs9912/flutter_teamPro_indieSpot.git)
 * 담당 역할 : 메인화면, 팀/솔로 신청, 아티스트 수정, 아티스트 목록, 아티스트 상세, 상업공간등록
