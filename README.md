@@ -53,7 +53,7 @@
 
 ### flutter 버스킹 홍보 모바일앱 인디스팟
 
-* GitHub : [https://github.com/Jeongseonil/Indie_Spot.git](https://github.com/lcs9912/flutter_teamPro_indieSpot.git)
+* GitHub : [https://github.com/lcs9912/flutter_teamPro_indieSpot.git](https://github.com/lcs9912/flutter_teamPro_indieSpot.git)
 * 담당 역할 : 메인화면, 팀/솔로 신청, 아티스트 수정, 아티스트 목록, 아티스트 상세, 상업공간등록
 * 수행기간 : 2023.10.23 ~ 2023.11.13 (22일)
 * 목표 및 소개 : 우리 앱은 예술가와 상업 공간을 연결하는 플랫폼으로, 간편한 공연 일정 및 장소 등록과 홍보가 가능합니다. 아티스트들은 더 많은 관객을 유치하고, 상업 공간 소유자들은 시설을 효과적으로 활용하여 수익을 창출할 수 있습니다.
