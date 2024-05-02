@@ -1,6 +1,7 @@
 ### 안녕하세요! 👋 이찬신입니다.
 ---
 * 이메일 : ebdh56@naver.com
+* 포트폴리오 : https://lcs9912.github.io/introduction/
 
 <div><h2>📚 기술 스택</h2></div>
 
